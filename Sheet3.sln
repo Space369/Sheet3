@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheet3", "Sheet3\Sheet3.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{08860AB9-3F01-4CB9-9E57-95CFCBA7DEB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactBAL", "ContactBAL\ContactBAL.csproj", "{087861B8-5C42-4255-966E-0F89C26F02F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5390647F-6077-4E51-8EDE-473F850BCD22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{08860AB9-3F01-4CB9-9E57-95CFCBA7DEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08860AB9-3F01-4CB9-9E57-95CFCBA7DEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08860AB9-3F01-4CB9-9E57-95CFCBA7DEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087861B8-5C42-4255-966E-0F89C26F02F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087861B8-5C42-4255-966E-0F89C26F02F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087861B8-5C42-4255-966E-0F89C26F02F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087861B8-5C42-4255-966E-0F89C26F02F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5390647F-6077-4E51-8EDE-473F850BCD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5390647F-6077-4E51-8EDE-473F850BCD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5390647F-6077-4E51-8EDE-473F850BCD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5390647F-6077-4E51-8EDE-473F850BCD22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
